@@ -15,7 +15,7 @@ For the Animal Trading Cards project the student was provided with a design prot
 
 ### Design prototype
 
-![Card's design prototype](https://github.com/lukeissad/udacity-animal-trading-cards/blob/master/images/design-prototype.png)
+<img src="https://github.com/lukeissad/udacity-animal-trading-cards/blob/master/images/design-prototype.png" width="320">
 
 ### Required styles
 
@@ -25,8 +25,8 @@ For the Animal Trading Cards project the student was provided with a design prot
 * border around the animal's name, image, and information
 * border around the animal's information
 * spacing between the animal's name, image, and information
-* fixed card width
-* image width of 300px
+* image is 300px wide or the image's width is set to 300px
+* fixed card width (Since image is 300px wide, card should be 300px + spacing)
 
 ## How to Run
 
