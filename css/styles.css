@@ -1,0 +1,47 @@
+.card {
+  background: linear-gradient(rgba(128, 0, 0, 0.71), rgba(128, 0, 0, 0.71)), url(../images/oak-61061_1280.jpg) center;
+  border: 1px solid transparent;
+  border-radius: 8px;
+  box-shadow: 6px 6px 6px #a0522d;
+  font: 13px "Open Sans", sans-serif;
+  padding: 0 10px 10px;
+  width: 300px;
+}
+
+.animal-name {
+  background: rgba(255, 250, 250, 0.50);
+  border: 1px solid transparent;
+  border-radius: 8px;
+  font: small-caps bold 25px "Open Sans", sans-serif;
+  margin: 10px 0;
+  text-align: center;
+}
+
+.animal-image {
+  border-radius: 8px;
+  height: 200px;
+  margin: 0 0 -3px;
+  object-fit: cover;
+  width: 300px;
+}
+
+.card-text {
+  background: rgba(255, 250, 250, 0.50);
+  border: 1px solid transparent;
+  border-radius: 8px;
+  margin: 10px 0 0;
+  padding: 0 10px;
+}
+
+.fun-fact {
+  font: italic 13px "Open Sans", sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.list-label {
+  font: bold 13px "Open Sans", sans-serif;
+}
